@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /categories/
+
+Disallow: /tags/others/
+
+Disallow: /categories/others/
+
+Disallow: /posts/
+
+Disallow: /tags/
+
+Disallow: /
+
+Disallow: /posts/markdown-cheat-sheet/
+
+Disallow: /categories/javascript/
+
+Disallow: /categories/scrum/
