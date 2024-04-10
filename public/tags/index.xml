@@ -7,13 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Others</title>
       <link>http://localhost:1313/tags/others/</link>
-      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/others/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/tags/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WhatsApp</title>
+      <link>http://localhost:1313/tags/whatsapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/whatsapp/</guid>
       <description></description>
     </item>
   </channel>
