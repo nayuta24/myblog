@@ -2,6 +2,8 @@ User-agent: *
 
 Disallow: /categories/
 
+Disallow: /
+
 Disallow: /tags/others/
 
 Disallow: /categories/others/
@@ -9,8 +11,6 @@ Disallow: /categories/others/
 Disallow: /posts/
 
 Disallow: /tags/
-
-Disallow: /
 
 Disallow: /posts/first-post/
 
