@@ -16,6 +16,8 @@ Disallow: /posts/first-post/
 
 Disallow: /posts/application-requirements/
 
+Disallow: /about/
+
 Disallow: /categories/javascript/
 
 Disallow: /categories/scrum/

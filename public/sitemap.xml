@@ -26,6 +26,8 @@
     <loc>http://localhost:1313/posts/application-requirements/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/javascript/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/scrum/</loc>
