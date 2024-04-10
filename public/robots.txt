@@ -12,7 +12,9 @@ Disallow: /tags/
 
 Disallow: /
 
-Disallow: /posts/markdown-cheat-sheet/
+Disallow: /posts/first-post/
+
+Disallow: /posts/application-requirements/
 
 Disallow: /categories/javascript/
 
