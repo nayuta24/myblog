@@ -16,5 +16,12 @@
       <guid>http://localhost:1313/posts/first-post/</guid>
       <description></description>
     </item>
+    <item>
+      <title>自作アプリの技術要件をまとめる！！！！</title>
+      <link>http://localhost:1313/posts/application-requirements/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/application-requirements/</guid>
+      <description>業務以外にもアプリを作ることで、技術についての学習や検証を行いたい！！！！！&#xA;作るアプリ 社内で使われているアプリ「ふぁしりたいまー」を自分なりに作ってみる&#xA;ふぁしりたいまー 使いたいフロントエンド技術 ベースとして社内でつかっているものを使用&#xA;JavaScriptライブラリ・フレームワーク&#xA;ライブラリ：React + TypeScript フレームワーク：Viteのものを使用） CSS-in-JS&#xA;styled-component LinterFomatter&#xA;ESLint Prettier Global State</description>
+    </item>
   </channel>
 </rss>
